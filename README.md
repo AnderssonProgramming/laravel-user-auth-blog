@@ -9,7 +9,19 @@
 
 **A modern, full-featured blog application built with Laravel 10 showcasing authentication, role-based access control (RBAC), and clean MVC architecture**
 
-[Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Testing](#-testing) • [Contributing](#-contributing)
+[Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Testing](#-testing) • [Documentation](docs/)
+
+---
+
+## 📚 Documentation
+
+- 📖 [Setup Guide](docs/SETUP_GUIDE.md) - Installation instructions for Windows
+- 🔌 [API Documentation](docs/API.md) - Routes and endpoints reference
+- 🗄️ [Database Schema](docs/DATABASE.md) - Database structure and relationships
+- 💻 [Development Guide](docs/DEVELOPMENT.md) - Commands and workflows
+- 📋 [Project Summary](docs/PROJECT_SUMMARY.md) - Complete feature checklist
+- 📝 [Changelog](CHANGELOG.md) - Version history and changes
+- 🤝 [Contributing](CONTRIBUTING.md) - Contribution guidelines
 
 </div>
 

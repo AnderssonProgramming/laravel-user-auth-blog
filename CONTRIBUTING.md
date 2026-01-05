@@ -28,6 +28,10 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. Fork the repo and create your branch from `main`
 2. If you've added code that should be tested, add tests
+3. Update the documentation if needed (see [docs/](docs/))
+4. Follow the code style guidelines (use Laravel Pint: `./vendor/bin/pint`)
+5. Write clear commit messages following [Conventional Commits](https://www.conventionalcommits.org/)
+6. Ensure all tests pass (`php artisan test`)
 3. If you've changed APIs, update the documentation
 4. Ensure the test suite passes
 5. Make sure your code follows Laravel coding standards (use Laravel Pint)
