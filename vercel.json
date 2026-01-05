@@ -31,7 +31,7 @@
   "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "false",
-    "APP_URL": "https://your-app.vercel.app",
+    "APP_URL": "https://laravel-user-auth-blog.vercel.app/",
     "APP_KEY": "",
     "DB_CONNECTION": "sqlite",
     "DB_DATABASE": "/tmp/database.sqlite",
